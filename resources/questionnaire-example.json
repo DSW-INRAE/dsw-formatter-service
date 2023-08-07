@@ -1,0 +1,1020 @@
+{
+    "commentThreadsMap": {},
+    "createdAt": "2023-06-14T00:44:24.892873Z",
+    "creatorUuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66",
+    "description": null,
+    "documentTemplate": null,
+    "documentTemplateId": null,
+    "documentTemplatePhase": null,
+    "documentTemplateState": null,
+    "format": null,
+    "formatUuid": null,
+    "isTemplate": false,
+    "knowledgeModel": {
+        "annotations": [],
+        "chapterUuids": [
+            "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d",
+            "7d7aeb11-475c-42b4-a41f-6e4fddd7b704"
+        ],
+        "entities": {
+            "answers": {
+                "10ca8d27-a4aa-4b0b-a246-270768685c28": {
+                    "advice": null,
+                    "annotations": [],
+                    "followUpUuids": [],
+                    "label": "Yes",
+                    "metricMeasures": [],
+                    "uuid": "10ca8d27-a4aa-4b0b-a246-270768685c28"
+                },
+                "1335f8f0-0c01-419c-a2c3-a1ce7abfac10": {
+                    "advice": null,
+                    "annotations": [],
+                    "followUpUuids": [],
+                    "label": "No",
+                    "metricMeasures": [],
+                    "uuid": "1335f8f0-0c01-419c-a2c3-a1ce7abfac10"
+                },
+                "5d7ca5c6-6d06-4d66-aa4c-50df1085ed79": {
+                    "advice": null,
+                    "annotations": [],
+                    "followUpUuids": [],
+                    "label": "No",
+                    "metricMeasures": [],
+                    "uuid": "5d7ca5c6-6d06-4d66-aa4c-50df1085ed79"
+                },
+                "67b9dc63-f4a2-4f02-8ed7-ebb30ddde42d": {
+                    "advice": null,
+                    "annotations": [],
+                    "followUpUuids": [],
+                    "label": "",
+                    "metricMeasures": [],
+                    "uuid": "67b9dc63-f4a2-4f02-8ed7-ebb30ddde42d"
+                },
+                "7a5a43fb-4394-445e-89fa-f5d50d3e0133": {
+                    "advice": null,
+                    "annotations": [],
+                    "followUpUuids": [],
+                    "label": "No",
+                    "metricMeasures": [],
+                    "uuid": "7a5a43fb-4394-445e-89fa-f5d50d3e0133"
+                },
+                "a8ff6f6f-631a-4955-b176-3f3371eaa7e3": {
+                    "advice": null,
+                    "annotations": [],
+                    "followUpUuids": [],
+                    "label": "Yes",
+                    "metricMeasures": [],
+                    "uuid": "a8ff6f6f-631a-4955-b176-3f3371eaa7e3"
+                },
+                "cae599ae-4337-40b4-a457-e05c9d8754e2": {
+                    "advice": null,
+                    "annotations": [],
+                    "followUpUuids": [],
+                    "label": "Yes",
+                    "metricMeasures": [],
+                    "uuid": "cae599ae-4337-40b4-a457-e05c9d8754e2"
+                },
+                "cc578a28-c1a6-4bc0-8fee-ee4600705755": {
+                    "advice": null,
+                    "annotations": [],
+                    "followUpUuids": [],
+                    "label": "No",
+                    "metricMeasures": [],
+                    "uuid": "cc578a28-c1a6-4bc0-8fee-ee4600705755"
+                },
+                "fbb70027-5317-4a18-b12e-0ee5ae1f0c64": {
+                    "advice": null,
+                    "annotations": [],
+                    "followUpUuids": [],
+                    "label": "Yes",
+                    "metricMeasures": [],
+                    "uuid": "fbb70027-5317-4a18-b12e-0ee5ae1f0c64"
+                }
+            },
+            "chapters": {
+                "7d7aeb11-475c-42b4-a41f-6e4fddd7b704": {
+                    "annotations": [
+                        {
+                            "key": "Test Annotation",
+                            "value": "Value of Test Annotation\n"
+                        }
+                    ],
+                    "questionUuids": [
+                        "0575d62d-973c-4a38-b2cf-09d534af2a87",
+                        "ed0a4b6d-edd4-4376-b2b7-2d9981e7c249"
+                    ],
+                    "text": null,
+                    "title": "Other Dummy Chapter",
+                    "uuid": "7d7aeb11-475c-42b4-a41f-6e4fddd7b704"
+                },
+                "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d": {
+                    "annotations": [],
+                    "questionUuids": [
+                        "15fb5d84-dd57-4ee7-935b-7424896f4118",
+                        "d2de7a89-b7de-41b7-b145-3d33b7687ab7",
+                        "282f9bd0-75ee-4dc1-b65a-0aae018868cc",
+                        "5f269a0e-b058-4872-9bde-e85818600465",
+                        "cbbdbb1a-d833-4fc1-94f8-dd37d0e98437"
+                    ],
+                    "text": null,
+                    "title": "Dummy Chapter",
+                    "uuid": "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d"
+                }
+            },
+            "choices": {
+                "3923f1d4-a317-4c33-8632-f6b4f396e7ee": {
+                    "annotations": [],
+                    "label": "b",
+                    "uuid": "3923f1d4-a317-4c33-8632-f6b4f396e7ee"
+                },
+                "3b167dd1-4509-4ff5-bccb-67402ba4c203": {
+                    "annotations": [],
+                    "label": "c",
+                    "uuid": "3b167dd1-4509-4ff5-bccb-67402ba4c203"
+                },
+                "3cb4d158-bf63-452c-9b0c-ffbd74e20aa0": {
+                    "annotations": [],
+                    "label": "d",
+                    "uuid": "3cb4d158-bf63-452c-9b0c-ffbd74e20aa0"
+                },
+                "632b92bc-9edf-4700-98b5-6aadcf641de5": {
+                    "annotations": [],
+                    "label": "b",
+                    "uuid": "632b92bc-9edf-4700-98b5-6aadcf641de5"
+                },
+                "a8c44e99-bd00-4974-b987-d546d339b1d5": {
+                    "annotations": [],
+                    "label": "a",
+                    "uuid": "a8c44e99-bd00-4974-b987-d546d339b1d5"
+                },
+                "c01788ef-d86a-407d-9ebf-01cafa48606b": {
+                    "annotations": [],
+                    "label": "d",
+                    "uuid": "c01788ef-d86a-407d-9ebf-01cafa48606b"
+                },
+                "cca21b5f-18a7-41a5-9a63-e6690e212b4a": {
+                    "annotations": [],
+                    "label": "a",
+                    "uuid": "cca21b5f-18a7-41a5-9a63-e6690e212b4a"
+                },
+                "e3228618-d2fe-4e8d-81e2-f9ec02ade721": {
+                    "annotations": [],
+                    "label": "c",
+                    "uuid": "e3228618-d2fe-4e8d-81e2-f9ec02ade721"
+                }
+            },
+            "experts": {},
+            "integrations": {
+                "477f7be3-342c-43dd-888d-8a1cea85ea99": {
+                    "annotations": [],
+                    "id": "id",
+                    "integrationType": "ApiIntegration",
+                    "itemUrl": "",
+                    "logo": "",
+                    "name": "test",
+                    "props": [],
+                    "requestBody": "",
+                    "requestEmptySearch": true,
+                    "requestHeaders": [],
+                    "requestMethod": "",
+                    "requestUrl": "",
+                    "responseItemId": "",
+                    "responseItemTemplate": "",
+                    "responseListField": "",
+                    "uuid": "477f7be3-342c-43dd-888d-8a1cea85ea99"
+                }
+            },
+            "metrics": {
+                "4eac7158-7cab-4d11-884d-ad771e551dc3": {
+                    "abbreviation": "M1",
+                    "annotations": [
+                        {
+                            "key": "Annotation 2",
+                            "value": "Value of Annotation 2"
+                        }
+                    ],
+                    "description": null,
+                    "title": "Metric 1",
+                    "uuid": "4eac7158-7cab-4d11-884d-ad771e551dc3"
+                }
+            },
+            "phases": {
+                "20ee2c8b-4736-4740-8e8f-d3aafc80d67d": {
+                    "annotations": [],
+                    "description": null,
+                    "title": "First Phase",
+                    "uuid": "20ee2c8b-4736-4740-8e8f-d3aafc80d67d"
+                }
+            },
+            "questions": {
+                "0575d62d-973c-4a38-b2cf-09d534af2a87": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "questionType": "ValueQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Other Dummy Question",
+                    "uuid": "0575d62d-973c-4a38-b2cf-09d534af2a87",
+                    "valueType": "StringQuestionValueType"
+                },
+                "1417e702-b603-4f6d-b2ac-6e5641de20f1": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "itemTemplateQuestionUuids": [],
+                    "questionType": "ListQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Sub Sub Question",
+                    "uuid": "1417e702-b603-4f6d-b2ac-6e5641de20f1"
+                },
+                "15fb5d84-dd57-4ee7-935b-7424896f4118": {
+                    "annotations": [],
+                    "answerUuids": [
+                        "10ca8d27-a4aa-4b0b-a246-270768685c28",
+                        "cc578a28-c1a6-4bc0-8fee-ee4600705755"
+                    ],
+                    "expertUuids": [],
+                    "questionType": "OptionsQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Dummy Options Question",
+                    "uuid": "15fb5d84-dd57-4ee7-935b-7424896f4118"
+                },
+                "19924ebd-e36f-47cc-944d-833b5634831e": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "itemTemplateQuestionUuids": [
+                        "609bf54a-1788-4f35-b525-3aa9ef2ad9b0"
+                    ],
+                    "questionType": "ListQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Sub Item List Question",
+                    "uuid": "19924ebd-e36f-47cc-944d-833b5634831e"
+                },
+                "282f9bd0-75ee-4dc1-b65a-0aae018868cc": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "questionType": "ValueQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Dummy Value Question",
+                    "uuid": "282f9bd0-75ee-4dc1-b65a-0aae018868cc",
+                    "valueType": "StringQuestionValueType"
+                },
+                "32b954f2-9451-451e-8529-b0ce073b4c5e": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "itemTemplateQuestionUuids": [],
+                    "questionType": "ListQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Sub Sub Sub Sub Sub Question",
+                    "uuid": "32b954f2-9451-451e-8529-b0ce073b4c5e"
+                },
+                "3e3f4b11-e0a4-4d76-a1a3-ee345402166f": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "itemTemplateQuestionUuids": [],
+                    "questionType": "ListQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Sub Sub Sub Sub Question",
+                    "uuid": "3e3f4b11-e0a4-4d76-a1a3-ee345402166f"
+                },
+                "5f269a0e-b058-4872-9bde-e85818600465": {
+                    "annotations": [],
+                    "choiceUuids": [
+                        "a8c44e99-bd00-4974-b987-d546d339b1d5",
+                        "3923f1d4-a317-4c33-8632-f6b4f396e7ee",
+                        "e3228618-d2fe-4e8d-81e2-f9ec02ade721",
+                        "c01788ef-d86a-407d-9ebf-01cafa48606b"
+                    ],
+                    "expertUuids": [],
+                    "questionType": "MultiChoiceQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Dummy Multi-Choice Question",
+                    "uuid": "5f269a0e-b058-4872-9bde-e85818600465"
+                },
+                "609bf54a-1788-4f35-b525-3aa9ef2ad9b0": {
+                    "annotations": [],
+                    "answerUuids": [
+                        "a8ff6f6f-631a-4955-b176-3f3371eaa7e3",
+                        "1335f8f0-0c01-419c-a2c3-a1ce7abfac10"
+                    ],
+                    "expertUuids": [],
+                    "questionType": "OptionsQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Sub Sub Options Question",
+                    "uuid": "609bf54a-1788-4f35-b525-3aa9ef2ad9b0"
+                },
+                "b11ce6cb-92c9-4dae-b38c-5a95840ad965": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "itemTemplateQuestionUuids": [],
+                    "questionType": "ListQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Sub Sub Sub Question",
+                    "uuid": "b11ce6cb-92c9-4dae-b38c-5a95840ad965"
+                },
+                "b67ec7ac-9c13-48e1-a27f-04925aa49f1d": {
+                    "annotations": [],
+                    "answerUuids": [
+                        "cae599ae-4337-40b4-a457-e05c9d8754e2",
+                        "5d7ca5c6-6d06-4d66-aa4c-50df1085ed79"
+                    ],
+                    "expertUuids": [],
+                    "questionType": "OptionsQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Sub Options Question",
+                    "uuid": "b67ec7ac-9c13-48e1-a27f-04925aa49f1d"
+                },
+                "baa7760d-3874-4885-8591-176d60dda76b": {
+                    "annotations": [],
+                    "answerUuids": [],
+                    "expertUuids": [],
+                    "questionType": "OptionsQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "SSSub Q",
+                    "uuid": "baa7760d-3874-4885-8591-176d60dda76b"
+                },
+                "c14d5267-6e62-4167-bb84-563430a911aa": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "itemTemplateQuestionUuids": [],
+                    "questionType": "ListQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Sub Sub Sub Sub Sub Sub Question",
+                    "uuid": "c14d5267-6e62-4167-bb84-563430a911aa"
+                },
+                "cbbdbb1a-d833-4fc1-94f8-dd37d0e98437": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "integrationUuid": "477f7be3-342c-43dd-888d-8a1cea85ea99",
+                    "props": {},
+                    "questionType": "IntegrationQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Dummy Integration Question",
+                    "uuid": "cbbdbb1a-d833-4fc1-94f8-dd37d0e98437"
+                },
+                "d2de7a89-b7de-41b7-b145-3d33b7687ab7": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "itemTemplateQuestionUuids": [
+                        "19924ebd-e36f-47cc-944d-833b5634831e",
+                        "b67ec7ac-9c13-48e1-a27f-04925aa49f1d"
+                    ],
+                    "questionType": "ListQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Dummy Item List Question",
+                    "uuid": "d2de7a89-b7de-41b7-b145-3d33b7687ab7"
+                },
+                "ed0a4b6d-edd4-4376-b2b7-2d9981e7c249": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "itemTemplateQuestionUuids": [
+                        "f7779069-a1bd-4cf0-acbd-61ffd40e52e6"
+                    ],
+                    "questionType": "ListQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Question",
+                    "uuid": "ed0a4b6d-edd4-4376-b2b7-2d9981e7c249"
+                },
+                "ee5ad982-8e18-456e-9a78-fad73661657a": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "itemTemplateQuestionUuids": [
+                        "baa7760d-3874-4885-8591-176d60dda76b"
+                    ],
+                    "questionType": "ListQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "SSub Q",
+                    "uuid": "ee5ad982-8e18-456e-9a78-fad73661657a"
+                },
+                "f2c23c53-d6a6-43e1-b302-27c8f263a9f6": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "questionType": "ValueQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Sub Sub Sub Sub Sub Sub Sub Question",
+                    "uuid": "f2c23c53-d6a6-43e1-b302-27c8f263a9f6",
+                    "valueType": "StringQuestionValueType"
+                },
+                "f7779069-a1bd-4cf0-acbd-61ffd40e52e6": {
+                    "annotations": [],
+                    "expertUuids": [],
+                    "itemTemplateQuestionUuids": [
+                        "ee5ad982-8e18-456e-9a78-fad73661657a"
+                    ],
+                    "questionType": "ListQuestion",
+                    "referenceUuids": [],
+                    "requiredPhaseUuid": null,
+                    "tagUuids": [],
+                    "text": null,
+                    "title": "Sub Q",
+                    "uuid": "f7779069-a1bd-4cf0-acbd-61ffd40e52e6"
+                }
+            },
+            "references": {},
+            "tags": {
+                "80e5eb20-c315-4f6b-9013-7131f6b9ae1a": {
+                    "annotations": [],
+                    "color": "#1ABC9C",
+                    "description": "Tag 1 Description",
+                    "name": "Tag 1",
+                    "uuid": "80e5eb20-c315-4f6b-9013-7131f6b9ae1a"
+                }
+            }
+        },
+        "integrationUuids": [
+            "477f7be3-342c-43dd-888d-8a1cea85ea99"
+        ],
+        "metricUuids": [
+            "4eac7158-7cab-4d11-884d-ad771e551dc3"
+        ],
+        "phaseUuids": [
+            "20ee2c8b-4736-4740-8e8f-d3aafc80d67d"
+        ],
+        "tagUuids": [
+            "80e5eb20-c315-4f6b-9013-7131f6b9ae1a"
+        ],
+        "uuid": "7606b463-da00-4e5c-81d8-0c5afa767f9c"
+    },
+    "labels": {},
+    "migrationUuid": null,
+    "name": "Questionnaire Example",
+    "package": {
+        "createdAt": "2023-07-04T00:19:33.415229Z",
+        "description": "KM Example Description",
+        "id": "myorg:km-example:1.0.4",
+        "kmId": "km-example",
+        "name": "KM Example",
+        "organization": null,
+        "organizationId": "myorg",
+        "phase": "ReleasedPackagePhase",
+        "remoteLatestVersion": null,
+        "state": "UnknownPackageState",
+        "version": "1.0.4"
+    },
+    "permissions": [
+        {
+            "member": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "type": "UserMember",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "perms": [
+                "VIEW",
+                "COMMENT",
+                "EDIT",
+                "ADMIN"
+            ],
+            "questionnaireUuid": "678511c6-677a-4b88-97cf-4fa017a5d883",
+            "uuid": "d76d4808-9156-4345-8ba8-37d7f4c00b3e"
+        }
+    ],
+    "phaseUuid": "20ee2c8b-4736-4740-8e8f-d3aafc80d67d",
+    "projectTags": [],
+    "replies": {
+        "7d7aeb11-475c-42b4-a41f-6e4fddd7b704.0575d62d-973c-4a38-b2cf-09d534af2a87": {
+            "createdAt": "2023-06-14T00:59:00.134046126Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "StringReply",
+                "value": "Test"
+            }
+        },
+        "7d7aeb11-475c-42b4-a41f-6e4fddd7b704.ed0a4b6d-edd4-4376-b2b7-2d9981e7c249": {
+            "createdAt": "2023-07-04T00:17:48.273071985Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "9bcbcf49-1dfe-43b5-8d5d-808ff19a4377",
+                    "f81cf4fb-5cfa-41fd-8169-e452d81e5836",
+                    "03464535-e34e-40b8-9858-701bd03dc481"
+                ]
+            }
+        },
+        "7d7aeb11-475c-42b4-a41f-6e4fddd7b704.ed0a4b6d-edd4-4376-b2b7-2d9981e7c249.03464535-e34e-40b8-9858-701bd03dc481.f7779069-a1bd-4cf0-acbd-61ffd40e52e6": {
+            "createdAt": "2023-07-04T00:20:07.754945509Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "b44a3688-132b-4725-a6fb-e91af85a9aa6",
+                    "20800f5e-997b-403d-af07-a0855f00bb25"
+                ]
+            }
+        },
+        "7d7aeb11-475c-42b4-a41f-6e4fddd7b704.ed0a4b6d-edd4-4376-b2b7-2d9981e7c249.03464535-e34e-40b8-9858-701bd03dc481.f7779069-a1bd-4cf0-acbd-61ffd40e52e6.20800f5e-997b-403d-af07-a0855f00bb25.ee5ad982-8e18-456e-9a78-fad73661657a": {
+            "createdAt": "2023-07-04T00:20:10.251744378Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "a6a8c7c7-795f-4d59-bf6f-57388e3b22a2",
+                    "0fb7db7a-478d-4716-92fd-8b55cea4a2d3"
+                ]
+            }
+        },
+        "7d7aeb11-475c-42b4-a41f-6e4fddd7b704.ed0a4b6d-edd4-4376-b2b7-2d9981e7c249.03464535-e34e-40b8-9858-701bd03dc481.f7779069-a1bd-4cf0-acbd-61ffd40e52e6.b44a3688-132b-4725-a6fb-e91af85a9aa6.ee5ad982-8e18-456e-9a78-fad73661657a": {
+            "createdAt": "2023-07-04T00:20:06.299499822Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "9a7c6037-5e24-4d75-b838-963a0d91ce42",
+                    "94c1c8bf-67ad-4367-a4ca-680105678213"
+                ]
+            }
+        },
+        "7d7aeb11-475c-42b4-a41f-6e4fddd7b704.ed0a4b6d-edd4-4376-b2b7-2d9981e7c249.9bcbcf49-1dfe-43b5-8d5d-808ff19a4377.f7779069-a1bd-4cf0-acbd-61ffd40e52e6": {
+            "createdAt": "2023-07-04T00:19:48.922747361Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "ae4de0a4-9a4f-4fd5-857b-2a2ad5385ba8"
+                ]
+            }
+        },
+        "7d7aeb11-475c-42b4-a41f-6e4fddd7b704.ed0a4b6d-edd4-4376-b2b7-2d9981e7c249.9bcbcf49-1dfe-43b5-8d5d-808ff19a4377.f7779069-a1bd-4cf0-acbd-61ffd40e52e6.ae4de0a4-9a4f-4fd5-857b-2a2ad5385ba8.ee5ad982-8e18-456e-9a78-fad73661657a": {
+            "createdAt": "2023-07-04T00:19:50.266859206Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "cfd915ef-70cf-4419-afdd-49ff1bde3c2b",
+                    "1d25ddd5-a443-4971-a147-e9275c581768"
+                ]
+            }
+        },
+        "7d7aeb11-475c-42b4-a41f-6e4fddd7b704.ed0a4b6d-edd4-4376-b2b7-2d9981e7c249.f81cf4fb-5cfa-41fd-8169-e452d81e5836.f7779069-a1bd-4cf0-acbd-61ffd40e52e6": {
+            "createdAt": "2023-07-04T00:20:00.563994916Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "c4a543ce-699a-4706-acf6-aea4ad07eff4",
+                    "4a5bbdec-fd8a-4281-a0f0-095acc9f202b"
+                ]
+            }
+        },
+        "7d7aeb11-475c-42b4-a41f-6e4fddd7b704.ed0a4b6d-edd4-4376-b2b7-2d9981e7c249.f81cf4fb-5cfa-41fd-8169-e452d81e5836.f7779069-a1bd-4cf0-acbd-61ffd40e52e6.4a5bbdec-fd8a-4281-a0f0-095acc9f202b.ee5ad982-8e18-456e-9a78-fad73661657a": {
+            "createdAt": "2023-07-04T00:20:02.901487831Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "4df40982-088c-4652-afde-8fdaef52a077",
+                    "96507d74-2a07-414b-80b1-6947348b17eb"
+                ]
+            }
+        },
+        "7d7aeb11-475c-42b4-a41f-6e4fddd7b704.ed0a4b6d-edd4-4376-b2b7-2d9981e7c249.f81cf4fb-5cfa-41fd-8169-e452d81e5836.f7779069-a1bd-4cf0-acbd-61ffd40e52e6.c4a543ce-699a-4706-acf6-aea4ad07eff4.ee5ad982-8e18-456e-9a78-fad73661657a": {
+            "createdAt": "2023-07-04T00:19:57.810043067Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "69f01503-84bd-438e-8430-33d2fa9f553a",
+                    "6cb50e64-917e-47da-8fc0-8a1af7c682a3"
+                ]
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.15fb5d84-dd57-4ee7-935b-7424896f4118": {
+            "createdAt": "2023-06-14T00:44:26.644719998Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "10ca8d27-a4aa-4b0b-a246-270768685c28"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.282f9bd0-75ee-4dc1-b65a-0aae018868cc": {
+            "createdAt": "2023-06-14T00:44:42.349616752Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "StringReply",
+                "value": "Dummy Answer"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.5f269a0e-b058-4872-9bde-e85818600465": {
+            "createdAt": "2023-07-04T00:11:17.93631948Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "MultiChoiceReply",
+                "value": [
+                    "c01788ef-d86a-407d-9ebf-01cafa48606b",
+                    "3923f1d4-a317-4c33-8632-f6b4f396e7ee",
+                    "a8c44e99-bd00-4974-b987-d546d339b1d5"
+                ]
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.cbbdbb1a-d833-4fc1-94f8-dd37d0e98437": {
+            "createdAt": "2023-07-04T00:20:32.527597398Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "IntegrationReply",
+                "value": {
+                    "type": "PlainType",
+                    "value": "Test Answer"
+                }
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7": {
+            "createdAt": "2023-07-04T00:11:04.68887475Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "092ee8dd-1496-4e44-9041-d7e8998c4225",
+                    "90a769ed-8fe9-48e5-a999-a9caeda8ea79",
+                    "fcfb08d0-5290-4f20-89ca-08a1c6c699f7"
+                ]
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.092ee8dd-1496-4e44-9041-d7e8998c4225.19924ebd-e36f-47cc-944d-833b5634831e": {
+            "createdAt": "2023-07-04T00:11:01.248954087Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "5b1b1b2f-0939-4cac-ae47-543e79027335",
+                    "8f46a427-ecd5-494c-856f-fe5551249887",
+                    "18a061ab-5892-44b5-a1ff-d2ac0f68193c"
+                ]
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.092ee8dd-1496-4e44-9041-d7e8998c4225.19924ebd-e36f-47cc-944d-833b5634831e.18a061ab-5892-44b5-a1ff-d2ac0f68193c.609bf54a-1788-4f35-b525-3aa9ef2ad9b0": {
+            "createdAt": "2023-07-04T00:11:02.250201704Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "a8ff6f6f-631a-4955-b176-3f3371eaa7e3"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.092ee8dd-1496-4e44-9041-d7e8998c4225.19924ebd-e36f-47cc-944d-833b5634831e.1bf32078-83fa-40ae-9951-7039a2309289.609bf54a-1788-4f35-b525-3aa9ef2ad9b0": {
+            "createdAt": "2023-06-14T00:44:30.110382038Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "a8ff6f6f-631a-4955-b176-3f3371eaa7e3"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.092ee8dd-1496-4e44-9041-d7e8998c4225.19924ebd-e36f-47cc-944d-833b5634831e.5b1b1b2f-0939-4cac-ae47-543e79027335.609bf54a-1788-4f35-b525-3aa9ef2ad9b0": {
+            "createdAt": "2023-06-14T00:44:31.789948958Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "1335f8f0-0c01-419c-a2c3-a1ce7abfac10"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.092ee8dd-1496-4e44-9041-d7e8998c4225.19924ebd-e36f-47cc-944d-833b5634831e.8f46a427-ecd5-494c-856f-fe5551249887.609bf54a-1788-4f35-b525-3aa9ef2ad9b0": {
+            "createdAt": "2023-06-14T01:38:59.468056811Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "1335f8f0-0c01-419c-a2c3-a1ce7abfac10"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.092ee8dd-1496-4e44-9041-d7e8998c4225.b67ec7ac-9c13-48e1-a27f-04925aa49f1d": {
+            "createdAt": "2023-06-14T00:44:32.996551413Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "5d7ca5c6-6d06-4d66-aa4c-50df1085ed79"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.90a769ed-8fe9-48e5-a999-a9caeda8ea79.19924ebd-e36f-47cc-944d-833b5634831e": {
+            "createdAt": "2023-06-14T01:38:48.777535638Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "0928daac-0e1a-41f1-a0f6-1492076329c0"
+                ]
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.90a769ed-8fe9-48e5-a999-a9caeda8ea79.19924ebd-e36f-47cc-944d-833b5634831e.0928daac-0e1a-41f1-a0f6-1492076329c0.609bf54a-1788-4f35-b525-3aa9ef2ad9b0": {
+            "createdAt": "2023-06-14T01:38:49.331145244Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "a8ff6f6f-631a-4955-b176-3f3371eaa7e3"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.90a769ed-8fe9-48e5-a999-a9caeda8ea79.b67ec7ac-9c13-48e1-a27f-04925aa49f1d": {
+            "createdAt": "2023-06-14T01:38:52.051022803Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "5d7ca5c6-6d06-4d66-aa4c-50df1085ed79"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.bc35f26f-0bb5-4df7-aa4e-93eba19baf00.19924ebd-e36f-47cc-944d-833b5634831e": {
+            "createdAt": "2023-06-14T00:44:34.440974751Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "b17b9431-6abc-4a06-a0c0-0876ed4433c5"
+                ]
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.bc35f26f-0bb5-4df7-aa4e-93eba19baf00.19924ebd-e36f-47cc-944d-833b5634831e.b17b9431-6abc-4a06-a0c0-0876ed4433c5.609bf54a-1788-4f35-b525-3aa9ef2ad9b0": {
+            "createdAt": "2023-06-14T00:44:35.717278492Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "1335f8f0-0c01-419c-a2c3-a1ce7abfac10"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.bc35f26f-0bb5-4df7-aa4e-93eba19baf00.b67ec7ac-9c13-48e1-a27f-04925aa49f1d": {
+            "createdAt": "2023-06-14T00:44:36.4718471Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "5d7ca5c6-6d06-4d66-aa4c-50df1085ed79"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.fcfb08d0-5290-4f20-89ca-08a1c6c699f7.19924ebd-e36f-47cc-944d-833b5634831e": {
+            "createdAt": "2023-07-04T00:11:09.836936942Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "ItemListReply",
+                "value": [
+                    "47b7aa84-c5eb-44bc-b467-de187056ed11",
+                    "710d6ed2-b804-49a3-b131-16edbc2cfeff"
+                ]
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.fcfb08d0-5290-4f20-89ca-08a1c6c699f7.19924ebd-e36f-47cc-944d-833b5634831e.47b7aa84-c5eb-44bc-b467-de187056ed11.609bf54a-1788-4f35-b525-3aa9ef2ad9b0": {
+            "createdAt": "2023-07-04T00:11:08.846315309Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "1335f8f0-0c01-419c-a2c3-a1ce7abfac10"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.fcfb08d0-5290-4f20-89ca-08a1c6c699f7.19924ebd-e36f-47cc-944d-833b5634831e.710d6ed2-b804-49a3-b131-16edbc2cfeff.609bf54a-1788-4f35-b525-3aa9ef2ad9b0": {
+            "createdAt": "2023-07-04T00:11:11.390039471Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "a8ff6f6f-631a-4955-b176-3f3371eaa7e3"
+            }
+        },
+        "e3d04dc4-dcfa-4a39-824d-cda05b8d0c9d.d2de7a89-b7de-41b7-b145-3d33b7687ab7.fcfb08d0-5290-4f20-89ca-08a1c6c699f7.b67ec7ac-9c13-48e1-a27f-04925aa49f1d": {
+            "createdAt": "2023-07-04T00:11:06.869954517Z",
+            "createdBy": {
+                "firstName": "Albert",
+                "gravatarHash": "a8ef6e3f64f212bdb6decadd7dd60731",
+                "imageUrl": null,
+                "lastName": "Einstein",
+                "uuid": "ec6f8e90-2a91-49ec-aa3f-9eab2267fc66"
+            },
+            "value": {
+                "type": "AnswerReply",
+                "value": "5d7ca5c6-6d06-4d66-aa4c-50df1085ed79"
+            }
+        }
+    },
+    "selectedQuestionTagUuids": [],
+    "sharing": "RestrictedQuestionnaire",
+    "state": "Default",
+    "updatedAt": "2023-07-04T00:20:32.528451Z",
+    "uuid": "678511c6-677a-4b88-97cf-4fa017a5d883",
+    "versions": [],
+    "visibility": "PrivateQuestionnaire"
+}
